@@ -1,0 +1,10 @@
+It's for selectColumn.go file
+
+Senior developer | Engineer
+
+Joined on December 19, 2025
+
+ 
+I am an experienced Senior Developer with a strong focus on Full Stack development, mobile applications, Unity, and Artificial Intelligence. Over the course of 6 years, I have honed my skills in delivering end-to-end solutions that blend seamless user experiences with cutting-edge technology. My expertise spans designing and building scalable web and mobile applications, developing immersive Unity-based experiences, and integrating AI to enhance functionality and user interaction.
+
+Proficient in both frontend and backend technologies, I am well-versed in languages like JavaScript (React, Node.js), Python, C#, and SQL, as well as tools like Docker and AWS. I am passionate about creating intuitive, high-performance applications that scale across platforms and devices. Whether it’s developing custom web solutions, crafting mobile apps, or designing immersive game-like environments with Unity, I bring a holistic approach to problem-solving and development.
