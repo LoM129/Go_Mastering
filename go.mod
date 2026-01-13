@@ -3,6 +3,7 @@ module mymodule
 go 1.25.5
 
 require (
+	github.com/Arafatk/glot v0.0.0-20230425001707-a00521b72ee4 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
