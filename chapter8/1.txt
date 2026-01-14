@@ -1,7 +1,11 @@
-THis is the test for the byLine.go file,
-In exactly, about the byLine main package in the main code as you can see in this status
-such as the content in this topic 
-well, this is not the typical sample for the main function of the chapter 8.
-It's only the simple show the main idea of the goroutine and the c based process as like c++
-In this part you should follow the coding rule according to the go lang forked topic.
-Thanks a lot for your trouble. It's really, really my hopefull mind.
+sdflsdhklfsdnvfldsf
+sdfdslkfjdssdfdskj
+dsfkdsf
+sdflsa;fhelksfj
+sdfdslkfjdssdfdskj
+
+
+sfldskjfds
+sdfdslkfjdssdfdskj
+
+sfsdfklj
