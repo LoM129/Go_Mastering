@@ -16,7 +16,7 @@ func gen(min, max int, createNumber chan int, end chan bool) {
 			close(end)
 			return
 		case <-time.After(4 * time.Second):
-			fmt.Println("n\time.After()!")
+			fmt.Println("\ntime.After()!")
 		}
 	}
 }

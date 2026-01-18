@@ -11,9 +11,11 @@ import (
 func timeout(w *sync.WaitGroup, t time.Duration) bool {
 	temp := make(chan int)
 	go func() {
-		time.Sleep(5 * time.Second)
+		time.Sleep(1 * time.Second)
+
 		defer close(temp)
 		w.Wait()
+		//	temp <- 10
 	}()
 	select {
 	case <-temp:
@@ -45,10 +47,12 @@ func main() {
 		fmt.Println("OK!")
 	}
 
+	//	time.Sleep(10 * time.Second)
 	w.Done()
 	if timeout(&w, duration) {
 		fmt.Println("Timed out!")
 	} else {
 		fmt.Println("OK!")
 	}
+
 }
