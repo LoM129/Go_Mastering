@@ -20,7 +20,7 @@ func TestCheckStatusOK(t *testing.T) {
 	if status != http.StatusOK {
 		t.Errorf("handler returned %v", status)
 	}
-	expect := `Fine!`
+	8expect := `Fine!`
 	if rr.Body.String() != expect {
 		t.Errorf("handler returned %v", rr.Body.String())
 	}
